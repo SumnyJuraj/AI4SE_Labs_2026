@@ -1,0 +1,10 @@
+Test_Type,Metric,Comparison_Pair,Statistic,p_value,Statistically_Significant
+McNemar,Exact_Accuracy,ICIO vs Few-Shot,27.0345,1.9986e-07,YES (p < 0.05)
+McNemar,Exact_Accuracy,Few-Shot vs CoT,0.0000,1.0000e+00,NO (p >= 0.05)
+McNemar,Exact_Accuracy,ICIO vs CoT,27.0345,1.9986e-07,YES (p < 0.05)
+Wilcoxon,Inference_Latency,ICIO vs Few-Shot,0.0000,3.4689e-27,YES (p < 0.05)
+Wilcoxon,Inference_Latency,Few-Shot vs CoT,0.0000,3.4696e-27,YES (p < 0.05)
+Wilcoxon,Inference_Latency,ICIO vs CoT,0.0000,3.4699e-27,YES (p < 0.05)
+Wilcoxon,Row_Level_F1,ICIO vs Few-Shot,1.0000,1.4304e-08,YES (p < 0.05)
+Wilcoxon,Row_Level_F1,Few-Shot vs CoT,0.0000,3.1731e-01,NO (p >= 0.05)
+Wilcoxon,Row_Level_F1,ICIO vs CoT,0.0000,1.7158e-08,YES (p < 0.05)
