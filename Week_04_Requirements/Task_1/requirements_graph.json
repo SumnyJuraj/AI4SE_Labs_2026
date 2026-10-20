@@ -1,0 +1,1662 @@
+{
+  "nodes": [
+    {
+      "id": "DOC:conv_pines014_material_volume.eml",
+      "label": "conv_pines014_material_volume.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines014_material_volume.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines015_capacity_interface.eml",
+      "label": "conv_pines015_capacity_interface.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines015_capacity_interface.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines016_shelf_space.eml",
+      "label": "conv_pines016_shelf_space.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines016_shelf_space.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines018_item_transfer.eml",
+      "label": "conv_pines018_item_transfer.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines018_item_transfer.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines019_020_missing_intransit.eml",
+      "label": "conv_pines019_020_missing_intransit.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines019_020_missing_intransit.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines021_item_purging.eml",
+      "label": "conv_pines021_item_purging.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines021_item_purging.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines022_deletions.eml",
+      "label": "conv_pines022_deletions.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines022_deletions.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines023_patron_characteristics.eml",
+      "label": "conv_pines023_patron_characteristics.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines023_patron_characteristics.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:conv_pines024_inactive_patrons.eml",
+      "label": "conv_pines024_inactive_patrons.eml",
+      "group": "document",
+      "title": "Source Document: conv_pines024_inactive_patrons.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:early_draft_srs_galecia.txt",
+      "label": "early_draft_srs_galecia.txt",
+      "group": "document",
+      "title": "Source Document: early_draft_srs_galecia.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:email_financial_reports.eml",
+      "label": "email_financial_reports.eml",
+      "group": "document",
+      "title": "Source Document: email_financial_reports.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:email_report_features.eml",
+      "label": "email_report_features.eml",
+      "group": "document",
+      "title": "Source Document: email_report_features.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:email_staff_login.eml",
+      "label": "email_staff_login.eml",
+      "group": "document",
+      "title": "Source Document: email_staff_login.eml",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:evergreen_reference_2009.txt",
+      "label": "evergreen_reference_2009.txt",
+      "group": "document",
+      "title": "Source Document: evergreen_reference_2009.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:interview_cataloging_2009-05-08.txt",
+      "label": "interview_cataloging_2009-05-08.txt",
+      "group": "document",
+      "title": "Source Document: interview_cataloging_2009-05-08.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:interview_sysadmin_2009-05-10.txt",
+      "label": "interview_sysadmin_2009-05-10.txt",
+      "group": "document",
+      "title": "Source Document: interview_sysadmin_2009-05-10.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:meeting_2009-03-15_minutes.txt",
+      "label": "meeting_2009-03-15_minutes.txt",
+      "group": "document",
+      "title": "Source Document: meeting_2009-03-15_minutes.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:meeting_2009-07-20_minutes.txt",
+      "label": "meeting_2009-07-20_minutes.txt",
+      "group": "document",
+      "title": "Source Document: meeting_2009-07-20_minutes.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "label": "meeting_tech_subcommittee_2009-06-30.txt",
+      "group": "document",
+      "title": "Source Document: meeting_tech_subcommittee_2009-06-30.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "DOC:survey_results_2009.txt",
+      "label": "survey_results_2009.txt",
+      "group": "document",
+      "title": "Source Document: survey_results_2009.txt",
+      "shape": "box",
+      "color": "#3498db"
+    },
+    {
+      "id": "REQ:REQ-REP-001",
+      "label": "[REQ-REP-001] Unified Report and Query ...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-001: Unified Report and Query Design</b><br>Priority: Must Have<br>Category: Reporting Platform<br><p>The system shall provide a user-friendly query builder for bibliographic, item, patron, circulation, hold, financial, authority, order, and related record types. Users shall be able to select fields, ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-001",
+        "title": "Unified Report and Query Design",
+        "description": "The system shall provide a user-friendly query builder for bibliographic, item, patron, circulation, hold, financial, authority, order, and related record types. Users shall be able to select fields, picklist values, regular-expression operators, Boolean AND/OR logic, filters, grouping dimensions, and display fields without writing database queries. The query builder shall support null and blank values, survey-name resolution, uploaded barcode or TCN lists, and display the selections used to produce each result. Access to ad hoc querying shall be controlled by role and data-set permissions.",
+        "priority": "Must Have",
+        "category": "Reporting Platform",
+        "source_documents": [
+          "email_report_features.eml",
+          "evergreen_reference_2009.txt",
+          "interview_cataloging_2009-05-08.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "A reusable query capability is the foundation for the requested management reports and reduces the need to implement every report as a separate custom feature."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-002",
+      "label": "[REQ-REP-002] Report Templates and Cann...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-002: Report Templates and Canned Reports</b><br>Priority: Must Have<br>Category: Reporting Platform<br><p>Administrators shall be able to create, edit, publish, schedule, and manage reusable report templates and canned reports. Staff shall be able to run authorized templates as-is, modify permitted criter...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-002",
+        "title": "Report Templates and Canned Reports",
+        "description": "Administrators shall be able to create, edit, publish, schedule, and manage reusable report templates and canned reports. Staff shall be able to run authorized templates as-is, modify permitted criteria or display options, and clone templates without changing the original definition. Administrators shall be able to restrict which filters, fields, folders, and reports staff may change or execute, while preserving report-result integrity. The system shall support predefined executive, board, maintenance, periodic, and fine-grained reports, including reports specified by approved report examples.",
+        "priority": "Must Have",
+        "category": "Reporting Platform",
+        "source_documents": [
+          "email_report_features.eml",
+          "evergreen_reference_2009.txt",
+          "meeting_2009-03-15_minutes.txt",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Reusable and governed reports are explicitly required for both routine library operations and executive reporting."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-003",
+      "label": "[REQ-REP-003] Report Scheduling, Delive...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-003: Report Scheduling, Delivery, and Output</b><br>Priority: Must Have<br>Category: Reporting Platform<br><p>The system shall support on-demand and recurring execution of authorized reports, including configurable schedules such as hourly, daily, monthly, and annual runs where operationally appropriate. Resu...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-003",
+        "title": "Report Scheduling, Delivery, and Output",
+        "description": "The system shall support on-demand and recurring execution of authorized reports, including configurable schedules such as hourly, daily, monthly, and annual runs where operationally appropriate. Results shall be available in HTML, CSV, Excel-compatible, and other configured formats, and scheduled reports shall be deliverable by email as well as through the web interface. Users shall be able to edit selection criteria and display options when permitted. Export processing shall preserve data integrity and avoid unintended duplicate rows.",
+        "priority": "Must Have",
+        "category": "Reporting Platform",
+        "source_documents": [
+          "evergreen_reference_2009.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Multiple output and delivery options are necessary for staff workflows, spreadsheet analysis, directors, and external consumers."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-004",
+      "label": "[REQ-REP-004] Background Report Queue M...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-004: Background Report Queue Management</b><br>Priority: Must Have<br>Category: Reporting Platform<br><p>The system shall queue resource-intensive reports and execute them in the background so that reporting does not degrade circulation, catalog, or OPAC performance. Users shall see submission time, queu...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-004",
+        "title": "Background Report Queue Management",
+        "description": "The system shall queue resource-intensive reports and execute them in the background so that reporting does not degrade circulation, catalog, or OPAC performance. Users shall see submission time, queue position or number of reports ahead, execution status, completion or failure state, and meaningful error feedback. Authorized users shall be able to prioritize critical reports and cancel queued or running reports, with cancellation signals honored during processing. The implementation shall support concurrent execution where safe and shall provide administrator-facing diagnostic details for failed queries.",
+        "priority": "Must Have",
+        "category": "Reporting Platform",
+        "source_documents": [
+          "email_report_features.eml",
+          "evergreen_reference_2009.txt",
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "survey_results_2009.txt"
+        ],
+        "rationale": "The consortium scale and explicit performance concerns make asynchronous execution, visibility, cancellation, and diagnostics essential."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-005",
+      "label": "[REQ-REP-005] Historical and Real-Time ...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-005: Historical and Real-Time Reporting</b><br>Priority: Must Have<br>Category: Reporting Platform<br><p>The system shall support current-data reports for immediate operational questions and historical reports representing data as of a selected prior date. Historical results shall remain meaningful when ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-005",
+        "title": "Historical and Real-Time Reporting",
+        "description": "The system shall support current-data reports for immediate operational questions and historical reports representing data as of a selected prior date. Historical results shall remain meaningful when current locations, statuses, or other attributes have changed, including historical billing and volume snapshots. Transaction history retention shall be configurable, while monthly and annual aggregates may be retained indefinitely in accordance with approved policy. The architecture may use a reporting warehouse, snapshots, or equivalent history-preserving mechanisms.",
+        "priority": "Must Have",
+        "category": "Reporting Platform",
+        "source_documents": [
+          "evergreen_reference_2009.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Operational decisions require current data, while trend analysis, audits, billing, and historical comparisons require preserved past states."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-006",
+      "label": "[REQ-REP-006] Transaction and Circulati...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-006: Transaction and Circulation Analytics</b><br>Priority: Must Have<br>Category: Circulation Reporting<br><p>The system shall report check-outs, renewals, check-ins, holds placed, holds filled, and related transactions by patron where permitted, branch, library group, system, county, terminal, hour, and othe...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-006",
+        "title": "Transaction and Circulation Analytics",
+        "description": "The system shall report check-outs, renewals, check-ins, holds placed, holds filled, and related transactions by patron where permitted, branch, library group, system, county, terminal, hour, and other configured dimensions. Check-ins shall distinguish book-drop, terminal, staff, and self-service activity, while check-outs shall distinguish staff, self-service, online, and renewal activity. Check-in date and time reports shall not count renewals as check-ins. Hold reports shall identify the placement method, and results shall support cumulative and individually segmented counts.",
+        "priority": "Must Have",
+        "category": "Circulation Reporting",
+        "source_documents": [
+          "email_report_features.eml",
+          "meeting_2009-03-15_minutes.txt",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Detailed transaction analysis is a core management function and is repeatedly identified as a required reporting gap."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-007",
+      "label": "[REQ-REP-007] Executive and Board Repor...",
+      "group": "Should Have",
+      "title": "<b>REQ-REP-007: Executive and Board Reporting</b><br>Priority: Should Have<br>Category: Executive Reporting<br><p>The system shall provide predefined executive and board reports containing statistics such as check-outs, check-ins, holds, demographics, and other approved management indicators. Reports shall suppor...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-REP-007",
+        "title": "Executive and Board Reporting",
+        "description": "The system shall provide predefined executive and board reports containing statistics such as check-outs, check-ins, holds, demographics, and other approved management indicators. Reports shall support breakdowns by terminal, branch, system, county, patron type, age range, time period, and location, together with cross-tabulation where applicable. Authorized users shall be able to run these reports on demand or on a schedule and export them in approved formats. Definitions and presentation shall be consistent enough for comparisons across libraries.",
+        "priority": "Should Have",
+        "category": "Executive Reporting",
+        "source_documents": [
+          "email_report_features.eml",
+          "meeting_2009-03-15_minutes.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Executive reporting is explicitly requested, but detailed report definitions can be delivered incrementally after the common reporting platform is established."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-008",
+      "label": "[REQ-REP-008] Reporting Accessibility a...",
+      "group": "Must Have",
+      "title": "<b>REQ-REP-008: Reporting Accessibility and Help</b><br>Priority: Must Have<br>Category: Usability and Accessibility<br><p>The reporting interface, generated web reports, help content, and relevant UI components shall use standards-compliant HTML and support applicable accessibility requirements, including keyboard access...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-REP-008",
+        "title": "Reporting Accessibility and Help",
+        "description": "The reporting interface, generated web reports, help content, and relevant UI components shall use standards-compliant HTML and support applicable accessibility requirements, including keyboard access, screen readers, screen magnification, alternative text, and ARIA semantics where appropriate. The system shall provide online help that is hierarchical, cross-linked, searchable, and available without leaving the application. Report titles and controls may provide concise descriptions or hover help, but essential information shall not depend exclusively on hover behavior. Error messages shall be understandable to users while detailed diagnostics remain available to authorized administrators.",
+        "priority": "Must Have",
+        "category": "Usability and Accessibility",
+        "source_documents": [
+          "evergreen_reference_2009.txt",
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Accessibility and usable support are legal, operational, and adoption requirements for a public library system."
+      }
+    },
+    {
+      "id": "REQ:REQ-REP-009",
+      "label": "[REQ-REP-009] Report Data Quality and C...",
+      "group": "Should Have",
+      "title": "<b>REQ-REP-009: Report Data Quality and Collection Diagnostics</b><br>Priority: Should Have<br>Category: Data Quality<br><p>The system shall provide data-quality and diagnostic reports identifying invalid item types, excessively long call numbers, bibliographic records without copies, orphaned records, and other configured...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-REP-009",
+        "title": "Report Data Quality and Collection Diagnostics",
+        "description": "The system shall provide data-quality and diagnostic reports identifying invalid item types, excessively long call numbers, bibliographic records without copies, orphaned records, and other configured integrity issues. Item reports shall distinguish last circulation date from last edit date and shall expose both when relevant. Reports shall support filtering, sorting, export, and drill-down to the affected record or holding branch. Diagnostics shall identify actionable causes rather than merely reporting aggregate counts.",
+        "priority": "Should Have",
+        "category": "Data Quality",
+        "source_documents": [
+          "interview_cataloging_2009-05-08.txt",
+          "survey_results_2009.txt"
+        ],
+        "rationale": "Data-quality reporting supports reliable circulation, cataloging, purging, and management analysis, but can follow the core reporting foundation."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-001",
+      "label": "[REQ-COL-001] Material Volume Reporting...",
+      "group": "Must Have",
+      "title": "<b>REQ-COL-001: Material Volume Reporting</b><br>Priority: Must Have<br>Category: Collection Reporting<br><p>The system shall report material volume for a selected library, branch, system, or historical point in time. Results shall separately count newly acquired items, circulating items, items currently on ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-COL-001",
+        "title": "Material Volume Reporting",
+        "description": "The system shall report material volume for a selected library, branch, system, or historical point in time. Results shall separately count newly acquired items, circulating items, items currently on the shelf, holds, and the total population, with configurable category breakdowns such as fiction, non-fiction, format, adult fiction, and board books. Users shall be able to filter by date or period, including predefined windows such as 30, 60, and 90 days, and compare historical snapshots. Category definitions shall be configurable without changing the underlying item records.",
+        "priority": "Must Have",
+        "category": "Collection Reporting",
+        "source_documents": [
+          "conv_pines014_material_volume.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Material volume is a recurring collection-management need and requires both current and historical views."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-002",
+      "label": "[REQ-COL-002] Shelf Space Utilization R...",
+      "group": "Should Have",
+      "title": "<b>REQ-COL-002: Shelf Space Utilization Reporting</b><br>Priority: Should Have<br>Category: Collection Reporting<br><p>The system shall provide shelf-space utilization reports by genre and format, comparing percentage of total circulation, percentage of the collection, and percentage of total shelf space. Reports shal...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-COL-002",
+        "title": "Shelf Space Utilization Reporting",
+        "description": "The system shall provide shelf-space utilization reports by genre and format, comparing percentage of total circulation, percentage of the collection, and percentage of total shelf space. Reports shall run at system and library or branch scope and provide a side-by-side comparison view for identifying outliers. Users shall be able to apply date ranges where the selected metrics support historical analysis. Because shelf space is not directly recorded, the system shall use a documented estimate based on item dimensions, configured proxies, item count, or another approved method and shall identify the estimation basis in the output.",
+        "priority": "Should Have",
+        "category": "Collection Reporting",
+        "source_documents": [
+          "conv_pines016_shelf_space.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "The report supports collection planning, but the estimation method requires validation before it can be treated as a fully reliable operational metric."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-003",
+      "label": "[REQ-COL-003] Branch Capacity Dashboard...",
+      "group": "Should Have",
+      "title": "<b>REQ-COL-003: Branch Capacity Dashboard</b><br>Priority: Should Have<br>Category: Collection and Capacity Management<br><p>The system shall provide a dashboard showing capacity metrics for all branches, with aggregation by system and region to keep the overview usable. Users shall be able to sort and filter by region, lib...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-COL-003",
+        "title": "Branch Capacity Dashboard",
+        "description": "The system shall provide a dashboard showing capacity metrics for all branches, with aggregation by system and region to keep the overview usable. Users shall be able to sort and filter by region, library type, current load, and other configured dimensions, then drill down into detailed metrics for an individual branch. Capacity definitions shall be configurable and documented, including distinctions among item count, shelf space, configured limits, circulation volume, and processing capacity. Where historical data exists, the dashboard shall show growth or shrinkage trends and support export to CSV.",
+        "priority": "Should Have",
+        "category": "Collection and Capacity Management",
+        "source_documents": [
+          "conv_pines015_capacity_interface.eml",
+          "meeting_2009-03-15_minutes.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Capacity analysis directly supports resource allocation and collection distribution, although metric definitions must be agreed before implementation."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-004",
+      "label": "[REQ-COL-004] Collection Value Reportin...",
+      "group": "Should Have",
+      "title": "<b>REQ-COL-004: Collection Value Reporting</b><br>Priority: Should Have<br>Category: Collection and Financial Reporting<br><p>The system shall calculate and report the recorded value of items for the entire collection or a filtered subset. Users shall be able to select examples such as long-overdue items, DVDs in a children'...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-COL-004",
+        "title": "Collection Value Reporting",
+        "description": "The system shall calculate and report the recorded value of items for the entire collection or a filtered subset. Users shall be able to select examples such as long-overdue items, DVDs in a children's collection, a branch collection, or all holdings. Reports shall support filtering by status, format, collection, branch, and other item-record attributes. The output shall clearly distinguish recorded value from an externally estimated replacement or market value.",
+        "priority": "Should Have",
+        "category": "Collection and Financial Reporting",
+        "source_documents": [
+          "email_financial_reports.eml",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Collection valuation supports management and audit work, but its accuracy depends on the quality and meaning of item-record value fields."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-005",
+      "label": "[REQ-COL-005] Uncataloged Material Inve...",
+      "group": "Should Have",
+      "title": "<b>REQ-COL-005: Uncataloged Material Inventory</b><br>Priority: Should Have<br>Category: Collection Operations<br><p>The system shall track uncataloged material received in bulk shipments even when individual bibliographic or copy records do not yet exist. Staff shall be able to record quantities, destination branch...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-COL-005",
+        "title": "Uncataloged Material Inventory",
+        "description": "The system shall track uncataloged material received in bulk shipments even when individual bibliographic or copy records do not yet exist. Staff shall be able to record quantities, destination branches, shipment or batch identity, distribution status, and subsequent use with minimal per-item processing. Transactions involving this inventory shall be counted in circulation statistics and management reports without being confused with fully cataloged copies. Usage analytics shall support decisions about distribution, cataloging, and continued handling.",
+        "priority": "Should Have",
+        "category": "Collection Operations",
+        "source_documents": [
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Bulk uncataloged material is a specific operational need that cannot be satisfied by ordinary copy-level cataloging workflows."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-006",
+      "label": "[REQ-COL-006] Last Copy Protection Repo...",
+      "group": "Must Have",
+      "title": "<b>REQ-COL-006: Last Copy Protection Reporting</b><br>Priority: Must Have<br>Category: Collection Safety<br><p>The system shall provide a last-copy report identifying titles or bibliographic records for which a selected library, system, or consortium holds the final copy. Users shall be able to choose library-...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-COL-006",
+        "title": "Last Copy Protection Reporting",
+        "description": "The system shall provide a last-copy report identifying titles or bibliographic records for which a selected library, system, or consortium holds the final copy. Users shall be able to choose library-level and system-wide scope and identify the associated copies and holding branches. The report shall be usable before deletion, weeding, transfer, or purging operations. Results shall include sufficient bibliographic and item identifiers to support cataloging integrity and external record maintenance.",
+        "priority": "Must Have",
+        "category": "Collection Safety",
+        "source_documents": [
+          "conv_pines021_item_purging.eml",
+          "interview_cataloging_2009-05-08.txt"
+        ],
+        "rationale": "Preventing accidental loss of the final consortium copy is a critical collection-integrity safeguard."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-007",
+      "label": "[REQ-COL-007] Item Transfer Management...",
+      "group": "Must Have",
+      "title": "<b>REQ-COL-007: Item Transfer Management</b><br>Priority: Must Have<br>Category: Collection Operations<br><p>The system shall provide an authorized utility for transferring batches of copies between holding branches. Users shall query and filter candidate copies, save reusable transfer queries, manually sele...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-COL-007",
+        "title": "Item Transfer Management",
+        "description": "The system shall provide an authorized utility for transferring batches of copies between holding branches. Users shall query and filter candidate copies, save reusable transfer queries, manually select or deselect results, preview proposed changes, update holding-location records, and generate staff pull lists and printable transit labels. Transfers shall preserve original and destination locations, record transfer history, provide alerts for delays or exceptions, and support an auditable undo or compensating action where technically safe. Optional automatic return to the original location shall be supported through configurable time- or event-based rules and a scheduled task.",
+        "priority": "Must Have",
+        "category": "Collection Operations",
+        "source_documents": [
+          "conv_pines018_item_transfer.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Batch transfer is a repeatedly identified operational capability and must include safeguards because it changes authoritative item locations."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-008",
+      "label": "[REQ-COL-008] Missing, Damaged, and In-...",
+      "group": "Must Have",
+      "title": "<b>REQ-COL-008: Missing, Damaged, and In-Transit Reporting</b><br>Priority: Must Have<br>Category: Collection Operations<br><p>The system shall provide branch-scoped reports of missing and damaged copies, including condition notes such as water damage or vandalism and configurable date-range filters. It shall also provide a u...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-COL-008",
+        "title": "Missing, Damaged, and In-Transit Reporting",
+        "description": "The system shall provide branch-scoped reports of missing and damaged copies, including condition notes such as water damage or vandalism and configurable date-range filters. It shall also provide a unified report of copies that have remained in transit longer than a configurable threshold, defaulting to seven days. The in-transit report shall combine transit-to and transit-from information, identify relevant branches and due dates, and support sorting by oldest or due date so staff can prioritize follow-up. Reports shall support export and trend analysis where historical events are available.",
+        "priority": "Must Have",
+        "category": "Collection Operations",
+        "source_documents": [
+          "conv_pines019_020_missing_intransit.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Missing, damaged, and stalled transit items directly affect inventory control and frontline service."
+      }
+    },
+    {
+      "id": "REQ:REQ-COL-009",
+      "label": "[REQ-COL-009] Safe Item Weeding and Pur...",
+      "group": "Must Have",
+      "title": "<b>REQ-COL-009: Safe Item Weeding and Purging</b><br>Priority: Must Have<br>Category: Collection Safety<br><p>The system shall identify item and volume records eligible for weeding or purging using combinable criteria such as status, duration in status, circulation inactivity, age, and other activity history....</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-COL-009",
+        "title": "Safe Item Weeding and Purging",
+        "description": "The system shall identify item and volume records eligible for weeding or purging using combinable criteria such as status, duration in status, circulation inactivity, age, and other activity history. It shall provide read-only candidate reports, last-copy checks, a separate confirmation step, batch status conversion, and an audit trail for every purge or status change. Authorized users may schedule approved purge jobs, but destructive deletion shall not occur without configured safety controls. The system shall support cleanup of orphaned volumes, copies, and records with no attached copies while preserving referential integrity.",
+        "priority": "Must Have",
+        "category": "Collection Safety",
+        "source_documents": [
+          "conv_pines021_item_purging.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Purging is inherently destructive and requires strong safeguards, traceability, and last-copy protection."
+      }
+    },
+    {
+      "id": "REQ:REQ-PAT-001",
+      "label": "[REQ-PAT-001] Patron Characteristics Re...",
+      "group": "Must Have",
+      "title": "<b>REQ-PAT-001: Patron Characteristics Reporting</b><br>Priority: Must Have<br>Category: Patron Analytics<br><p>The system shall allow authorized users to filter and group patron reports by age range, postal code, county, home branch, patron type, preferred language, and other approved characteristics. Age band...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-PAT-001",
+        "title": "Patron Characteristics Reporting",
+        "description": "The system shall allow authorized users to filter and group patron reports by age range, postal code, county, home branch, patron type, preferred language, and other approved characteristics. Age bands shall be configurable, and multiple characteristics shall be combinable with explicit AND and OR logic. Reports shall support both limiting the population and aggregating the results, while retaining records with null or blank optional characteristics in an identifiable group. Personally identifiable patron data shall be exposed only to authorized users and only when necessary for the report purpose.",
+        "priority": "Must Have",
+        "category": "Patron Analytics",
+        "source_documents": [
+          "conv_pines023_patron_characteristics.eml",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Demographic segmentation is a central management need, but must be governed by privacy and access controls."
+      }
+    },
+    {
+      "id": "REQ:REQ-PAT-002",
+      "label": "[REQ-PAT-002] Inactive Patron Reporting...",
+      "group": "Must Have",
+      "title": "<b>REQ-PAT-002: Inactive Patron Reporting</b><br>Priority: Must Have<br>Category: Patron Analytics<br><p>The system shall identify patrons with no qualifying circulation or electronic activity for a configurable number of days, with a default of 365 days and support for custom values such as 30, 90, or 1...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-PAT-002",
+        "title": "Inactive Patron Reporting",
+        "description": "The system shall identify patrons with no qualifying circulation or electronic activity for a configurable number of days, with a default of 365 days and support for custom values such as 30, 90, or 180 days. Electronic activity shall include account or OPAC login, online holds, online renewals, and integrated digital-resource access when available. Reports shall be configurable by system, home branch, county, or other scope, separately identify patrons with outstanding fines, and allow authorized exclusions such as do-not-contact, staff, VIP, or communication-opt-out designations. Authorized outreach exports may include current mailing addresses and shall support CSV or another approved exchange format.",
+        "priority": "Must Have",
+        "category": "Patron Analytics",
+        "source_documents": [
+          "conv_pines024_inactive_patrons.eml",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Inactive-patron outreach is a concrete requested workflow and requires configurable activity definitions and privacy-sensitive handling."
+      }
+    },
+    {
+      "id": "REQ:REQ-PAT-003",
+      "label": "[REQ-PAT-003] Privacy-Preserving Demogr...",
+      "group": "Should Have",
+      "title": "<b>REQ-PAT-003: Privacy-Preserving Demographic and Behavior Analytics</b><br>Priority: Should Have<br>Category: Patron Analytics<br><p>The system shall provide aggregate statistics about patron demographics, material use, and behavior, including geography, age range, average return time, renewal likelihood, and other approved plannin...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-PAT-003",
+        "title": "Privacy-Preserving Demographic and Behavior Analytics",
+        "description": "The system shall provide aggregate statistics about patron demographics, material use, and behavior, including geography, age range, average return time, renewal likelihood, and other approved planning indicators. Outputs shall be anonymized or aggregated sufficiently to prevent identification of individual patrons unless an explicitly authorized operational report requires identifiable results. Transaction archives shall retain useful analytical dimensions without retaining unnecessary personally identifiable information. Privacy rules, minimum-group thresholds, and retention behavior shall be configurable to comply with applicable law and policy.",
+        "priority": "Should Have",
+        "category": "Patron Analytics",
+        "source_documents": [
+          "email_report_features.eml",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Aggregate analytics support service planning while privacy protection is a core library principle and legal obligation."
+      }
+    },
+    {
+      "id": "REQ:REQ-FIN-001",
+      "label": "[REQ-FIN-001] Financial Account and Tra...",
+      "group": "Must Have",
+      "title": "<b>REQ-FIN-001: Financial Account and Transaction Management</b><br>Priority: Must Have<br>Category: Financial Management<br><p>The system shall maintain fines, charges, waivers, payments, and approved electronic-commerce transactions associated with patron accounts and relevant item records. Financial updates, including front...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-FIN-001",
+        "title": "Financial Account and Transaction Management",
+        "description": "The system shall maintain fines, charges, waivers, payments, and approved electronic-commerce transactions associated with patron accounts and relevant item records. Financial updates, including front-desk payments, shall be reflected promptly and shall preserve the relationship between each payment and the charges to which it is applied. Staff shall be able to query balances above a configured amount and distinguish outstanding, waived, paid, and adjusted amounts. Financial data shall be available to authorized reporting and reconciliation functions without permitting unauthorized alteration.",
+        "priority": "Must Have",
+        "category": "Financial Management",
+        "source_documents": [
+          "email_financial_reports.eml",
+          "meeting_2009-03-15_minutes.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Accurate financial accounting and timely payment updates are operationally and legally essential."
+      }
+    },
+    {
+      "id": "REQ:REQ-FIN-002",
+      "label": "[REQ-FIN-002] Financial and Audit Repor...",
+      "group": "Must Have",
+      "title": "<b>REQ-FIN-002: Financial and Audit Reporting</b><br>Priority: Must Have<br>Category: Financial Management<br><p>The system shall generate financial reports by patron, home branch, branch, system, time period, charge type, waiver, payment method, and other approved dimensions. Reports shall separately identify c...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-FIN-002",
+        "title": "Financial and Audit Reporting",
+        "description": "The system shall generate financial reports by patron, home branch, branch, system, time period, charge type, waiver, payment method, and other approved dimensions. Reports shall separately identify cash, credit-card, check, and other payment methods and shall support branch-level reconciliation. The payment ledger shall show the charges associated with each payment and support audit review. Reports and archived financial data shall comply with applicable accounting practices and state, county, and municipal audit requirements.",
+        "priority": "Must Have",
+        "category": "Financial Management",
+        "source_documents": [
+          "email_financial_reports.eml",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Financial reporting and reconciliation are required for accountability and formal audits."
+      }
+    },
+    {
+      "id": "REQ:REQ-SEC-001",
+      "label": "[REQ-SEC-001] Authentication and Role-B...",
+      "group": "Must Have",
+      "title": "<b>REQ-SEC-001: Authentication and Role-Based Authorization</b><br>Priority: Must Have<br>Category: Security<br><p>The system shall authenticate each staff member individually using username and password and may support streamlined methods such as RFID or card swipe where infrastructure permits. Streamlined login ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SEC-001",
+        "title": "Authentication and Role-Based Authorization",
+        "description": "The system shall authenticate each staff member individually using username and password and may support streamlined methods such as RFID or card swipe where infrastructure permits. Streamlined login shall remain optional and shall still identify the individual user for auditing. Fine-grained role- and group-based access control shall support patrons, staff, local administrators, global administrators, managers, directors, workgroups, and arbitrary staff groups. Administrators shall manage permissions primarily by assigning roles or groups rather than editing individual permissions, including permissions for report creation, cloning, execution, data access, transfers, purges, and financial functions.",
+        "priority": "Must Have",
+        "category": "Security",
+        "source_documents": [
+          "email_staff_login.eml",
+          "email_report_features.eml",
+          "early_draft_srs_galecia.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt"
+        ],
+        "rationale": "Individual accountability and least-privilege authorization are required across all reporting and destructive operations."
+      }
+    },
+    {
+      "id": "REQ:REQ-SEC-002",
+      "label": "[REQ-SEC-002] Deletion and Denied-Actio...",
+      "group": "Must Have",
+      "title": "<b>REQ-SEC-002: Deletion and Denied-Action Auditing</b><br>Priority: Must Have<br>Category: Security and Audit<br><p>The system shall record deletions of bibliographic, item, volume, patron, and other configured records, including record type, record identifier, timestamp, user, user branch or location, and availabl...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SEC-002",
+        "title": "Deletion and Denied-Action Auditing",
+        "description": "The system shall record deletions of bibliographic, item, volume, patron, and other configured records, including record type, record identifier, timestamp, user, user branch or location, and available pre-deletion status or reason. It shall also record denied deletion attempts and other configured security-sensitive failures. Authorized users shall be able to query and aggregate audit events by date, user, record type, branch, and system, including totals by month, quarter, or year and users with unusually high deletion activity. Retention shall support operational troubleshooting, accountability, and demonstrations of compliance with approved data-retention schedules.",
+        "priority": "Must Have",
+        "category": "Security and Audit",
+        "source_documents": [
+          "conv_pines022_deletions.eml",
+          "interview_cataloging_2009-05-08.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Deletion traceability is necessary to investigate mistakes, monitor authorization, and satisfy audit obligations."
+      }
+    },
+    {
+      "id": "REQ:REQ-SEC-003",
+      "label": "[REQ-SEC-003] Data Retention and Regula...",
+      "group": "Must Have",
+      "title": "<b>REQ-SEC-003: Data Retention and Regulatory Compliance</b><br>Priority: Must Have<br>Category: Compliance<br><p>The system shall implement configurable retention rules for transaction, patron, financial, deletion, and reporting data, subject to legal holds and approved library policy. Where required by applicab...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SEC-003",
+        "title": "Data Retention and Regulatory Compliance",
+        "description": "The system shall implement configurable retention rules for transaction, patron, financial, deletion, and reporting data, subject to legal holds and approved library policy. Where required by applicable law or audit policy, designated records shall be retained for seven years or another configured duration. Retention and archival processes shall protect patron privacy and shall document what is retained, aggregated, anonymized, or purged. Administrators shall be able to produce evidence of retention and deletion actions without exposing unnecessary personally identifiable information.",
+        "priority": "Must Have",
+        "category": "Compliance",
+        "source_documents": [
+          "email_report_features.eml",
+          "email_financial_reports.eml",
+          "conv_pines022_deletions.eml",
+          "survey_results_2009.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Retention and privacy obligations affect the architecture of historical reporting, financial records, and audit trails."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-001",
+      "label": "[REQ-SYS-001] Consortium Scale and Perf...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-001: Consortium Scale and Performance</b><br>Priority: Must Have<br>Category: System Architecture<br><p>The system shall support a consortium of approximately 286 locations, 17 million annual circulations, and more than 900,000 items purchased or processed annually. Searches and reports shall remain usa...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-001",
+        "title": "Consortium Scale and Performance",
+        "description": "The system shall support a consortium of approximately 286 locations, 17 million annual circulations, and more than 900,000 items purchased or processed annually. Searches and reports shall remain usable during open hours and shall not materially degrade circulation, cataloging, acquisitions, or OPAC services. Resource-intensive work shall use queueing, background processing, caching, indexing, or equivalent controls. Capacity targets and operational monitoring shall be defined and tested using representative peak workloads.",
+        "priority": "Must Have",
+        "category": "System Architecture",
+        "source_documents": [
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "The stated consortium size and peak-hour requirement impose explicit scalability and performance constraints."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-002",
+      "label": "[REQ-SYS-002] Centralized Enterprise In...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-002: Centralized Enterprise Integration</b><br>Priority: Must Have<br>Category: System Architecture<br><p>Management processes shall operate as centralized services over shared data for multiple libraries, branches, and systems while preserving each holding branch and organizational scope. The solution sh...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-002",
+        "title": "Centralized Enterprise Integration",
+        "description": "Management processes shall operate as centralized services over shared data for multiple libraries, branches, and systems while preserving each holding branch and organizational scope. The solution shall integrate with the enterprise library automation system, including cataloging, acquisitions, circulation, holds, and OPAC data, without altering patron-facing OPAC behavior except through authorized existing workflows. It shall support vendor interaction through published APIs or automated exchange of standard-format files. Network failures, unavailable vendor services, and partial integrations shall produce clear status and error information.",
+        "priority": "Must Have",
+        "category": "System Architecture",
+        "source_documents": [
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt"
+        ],
+        "rationale": "The reporting and management functions depend on centralized enterprise data and external systems."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-003",
+      "label": "[REQ-SYS-003] Database and Deployment C...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-003: Database and Deployment Compatibility</b><br>Priority: Must Have<br>Category: System Architecture<br><p>The solution shall operate with the existing fully relational PostgreSQL data model and shall preserve defined relationships among authority, bibliographic, order, item, hold, patron, and transaction ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-003",
+        "title": "Database and Deployment Compatibility",
+        "description": "The solution shall operate with the existing fully relational PostgreSQL data model and shall preserve defined relationships among authority, bibliographic, order, item, hold, patron, and transaction records. The reporting layer shall avoid uncontrolled denormalization that can create synchronization errors, while permitting carefully governed indexes, replicas, snapshots, or warehouses when required for performance or history. Supported deployment environments shall include the approved Linux and Solaris server environments and their disaster-recovery arrangements. Browser or Windows-compatible client access shall be provided according to the deployment architecture.",
+        "priority": "Must Have",
+        "category": "System Architecture",
+        "source_documents": [
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Compatibility with the existing enterprise platform is a core architectural constraint."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-004",
+      "label": "[REQ-SYS-004] Environment Separation an...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-004: Environment Separation and Configuration Migration</b><br>Priority: Must Have<br>Category: System Operations<br><p>The system shall provide separate development, training, and production environments. Training and development environments shall be isolated so experimentation cannot damage production data, and repr...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-004",
+        "title": "Environment Separation and Configuration Migration",
+        "description": "The system shall provide separate development, training, and production environments. Training and development environments shall be isolated so experimentation cannot damage production data, and representative or sanitized data shall be used where appropriate. Administrators shall be able to export and import approved configurations, including report templates, saved queries, schedules, permissions, and related metadata, between environments. Migration shall validate dependencies, identify conflicts, and provide a reversible or reviewable deployment process.",
+        "priority": "Must Have",
+        "category": "System Operations",
+        "source_documents": [
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Safe testing and controlled promotion are necessary for a large shared system and are explicitly required in multiple technical decisions."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-005",
+      "label": "[REQ-SYS-005] Data and Process Document...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-005: Data and Process Documentation</b><br>Priority: Must Have<br>Category: Documentation<br><p>The developer shall provide complete, maintained data specifications for records accessed by management processes, including field names, data types, relationships, authority, bibliographic, order, it...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-005",
+        "title": "Data and Process Documentation",
+        "description": "The developer shall provide complete, maintained data specifications for records accessed by management processes, including field names, data types, relationships, authority, bibliographic, order, item, hold/request, patron, and transaction records. Documentation shall also describe major processes such as bibliographic import and export, validation against internal and external authority sources, standard reporting, retention, and integration flows. Documentation shall be written for both administrators who design queries and technical staff who maintain the system. Changes to schemas or process behavior shall be reflected in the documentation.",
+        "priority": "Must Have",
+        "category": "Documentation",
+        "source_documents": [
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "Accurate data and process documentation is essential for safe query construction, support, and long-term maintainability."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-006",
+      "label": "[REQ-SYS-006] Iterative Requirements an...",
+      "group": "Should Have",
+      "title": "<b>REQ-SYS-006: Iterative Requirements and Acceptance Process</b><br>Priority: Should Have<br>Category: Governance and Quality Assurance<br><p>The project shall use an iterative, prototype-oriented process for refining user interfaces, data structures, reports, and workflows. Library staff and representative user classes, including patrons, ...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#f39c12",
+      "full_data": {
+        "id": "REQ-SYS-006",
+        "title": "Iterative Requirements and Acceptance Process",
+        "description": "The project shall use an iterative, prototype-oriented process for refining user interfaces, data structures, reports, and workflows. Library staff and representative user classes, including patrons, staff, administrators, managers, and directors, shall review prototypes and provide feedback. A designated Reports Working Group shall test new reporting functionality before production deployment, using agreed acceptance criteria and representative data. Functional requirements shall be specified before detailed UI commitments, while usability and interface details shall be refined through documented iterations.",
+        "priority": "Should Have",
+        "category": "Governance and Quality Assurance",
+        "source_documents": [
+          "meeting_2009-03-15_minutes.txt"
+        ],
+        "rationale": "The source meeting explicitly calls for collaborative refinement and a testing group; this reduces risk in a broad, user-driven scope."
+      }
+    },
+    {
+      "id": "REQ:REQ-SYS-007",
+      "label": "[REQ-SYS-007] Management Reporting Scop...",
+      "group": "Must Have",
+      "title": "<b>REQ-SYS-007: Management Reporting Scope</b><br>Priority: Must Have<br>Category: Scope and Integration<br><p>The management-process subsystem shall focus on reports, analysis, planning, evaluation, collection management, patron analysis, staff workflow, branch capacity, and financial oversight rather than re...</p>",
+      "shape": "dot",
+      "size": 20,
+      "color": "#e74c3c",
+      "full_data": {
+        "id": "REQ-SYS-007",
+        "title": "Management Reporting Scope",
+        "description": "The management-process subsystem shall focus on reports, analysis, planning, evaluation, collection management, patron analysis, staff workflow, branch capacity, and financial oversight rather than replacing day-to-day patron-facing circulation or OPAC functions. It shall provide the interfaces and data access needed by authorized managers, administrators, and staff while preserving existing patron services. Scope decisions shall be documented for requested report families and external integrations. Features that alter OPAC behavior or bypass core library controls shall require explicit architecture and policy approval.",
+        "priority": "Must Have",
+        "category": "Scope and Integration",
+        "source_documents": [
+          "meeting_2009-03-15_minutes.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "meeting_tech_subcommittee_2009-06-30.txt",
+          "early_draft_srs_galecia.txt"
+        ],
+        "rationale": "A clear management-process boundary prevents reporting work from constraining patron-facing services and controls scope."
+      }
+    },
+    {
+      "id": "BLK:BLK-001",
+      "label": "[BLK-001] Directly Require Outda...",
+      "group": "Blacklist",
+      "title": "<b>[DISCARDED] BLK-001: Directly Require Outdated Browser Versions</b><br>Reason: The exact historical versions are obsolete and technically unsafe as acceptance targets. The legitimate need for broad browser accessibility is retained in the compatibility and accessibility requirements, but implementation shall use currently supported browsers and an approved compatibility matrix.",
+      "shape": "triangleDown",
+      "size": 18,
+      "color": "#7f8c8d",
+      "full_data": {
+        "id": "BLK-001",
+        "title": "Directly Require Outdated Browser Versions",
+        "description": "Several statements require Internet Explorer 6.0 or later and Firefox 2.0 or later as fixed browser compatibility targets.",
+        "reason_for_discarding": "The exact historical versions are obsolete and technically unsafe as acceptance targets. The legitimate need for broad browser accessibility is retained in the compatibility and accessibility requirements, but implementation shall use currently supported browsers and an approved compatibility matrix.",
+        "source_documents": [
+          "interview_sysadmin_2009-05-10.txt",
+          "meeting_2009-07-20_minutes.txt",
+          "early_draft_srs_galecia.txt"
+        ]
+      }
+    },
+    {
+      "id": "BLK:BLK-002",
+      "label": "[BLK-002] Action Items as Produc...",
+      "group": "Blacklist",
+      "title": "<b>[DISCARDED] BLK-002: Action Items as Product Functionality</b><br>Reason: These are project-management assignments recorded in meeting context, not Evergreen product capabilities. They belong in a delivery plan rather than the software requirements baseline.",
+      "shape": "triangleDown",
+      "size": 18,
+      "color": "#7f8c8d",
+      "full_data": {
+        "id": "BLK-002",
+        "title": "Action Items as Product Functionality",
+        "description": "One statement proposes that the software track meeting action items such as assigning Robert to investigate shelf-space estimation and Susan to coordinate testing.",
+        "reason_for_discarding": "These are project-management assignments recorded in meeting context, not Evergreen product capabilities. They belong in a delivery plan rather than the software requirements baseline.",
+        "source_documents": [
+          "conv_pines016_shelf_space.eml"
+        ]
+      }
+    },
+    {
+      "id": "BLK:BLK-003",
+      "label": "[BLK-003] Technical Feasibility ...",
+      "group": "Blacklist",
+      "title": "<b>[DISCARDED] BLK-003: Technical Feasibility Confirmation as Runtime Behavior</b><br>Reason: A deadline and feasibility check are project governance activities, not testable runtime behavior. Feasibility review remains an engineering planning activity and is not included as a product requirement.",
+      "shape": "triangleDown",
+      "size": 18,
+      "color": "#7f8c8d",
+      "full_data": {
+        "id": "BLK-003",
+        "title": "Technical Feasibility Confirmation as Runtime Behavior",
+        "description": "One statement requires the development team to confirm technical feasibility by a specified meeting deadline.",
+        "reason_for_discarding": "A deadline and feasibility check are project governance activities, not testable runtime behavior. Feasibility review remains an engineering planning activity and is not included as a product requirement.",
+        "source_documents": [
+          "conv_pines019_020_missing_intransit.eml",
+          "conv_pines023_patron_characteristics.eml"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: email_report_features.eml -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-REP-002",
+      "title": "Derivation: email_report_features.eml -> REQ-REP-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-002",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-REP-002",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-REP-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-002",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-002",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-003",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-REP-003",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-REP-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-REP-003",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-REP-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-003",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-003",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: email_report_features.eml -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: interview_sysadmin_2009-05-10.txt -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-004",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-005",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-REP-005",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-REP-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-005",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-005",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-REP-006",
+      "title": "Derivation: email_report_features.eml -> REQ-REP-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-REP-006",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-REP-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-006",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-006",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-REP-007",
+      "title": "Derivation: email_report_features.eml -> REQ-REP-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-REP-007",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-REP-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-007",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:evergreen_reference_2009.txt",
+      "to": "REQ:REQ-REP-008",
+      "title": "Derivation: evergreen_reference_2009.txt -> REQ-REP-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "REQ:REQ-REP-008",
+      "title": "Derivation: interview_sysadmin_2009-05-10.txt -> REQ-REP-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-REP-008",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-REP-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-REP-008",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-REP-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-REP-008",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-REP-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-REP-009",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-REP-009",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-REP-009",
+      "title": "Derivation: survey_results_2009.txt -> REQ-REP-009",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines014_material_volume.eml",
+      "to": "REQ:REQ-COL-001",
+      "title": "Derivation: conv_pines014_material_volume.eml -> REQ-COL-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-001",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines016_shelf_space.eml",
+      "to": "REQ:REQ-COL-002",
+      "title": "Derivation: conv_pines016_shelf_space.eml -> REQ-COL-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-002",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-002",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines015_capacity_interface.eml",
+      "to": "REQ:REQ-COL-003",
+      "title": "Derivation: conv_pines015_capacity_interface.eml -> REQ-COL-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-COL-003",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-COL-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-003",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_financial_reports.eml",
+      "to": "REQ:REQ-COL-004",
+      "title": "Derivation: email_financial_reports.eml -> REQ-COL-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-004",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-005",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-005",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines021_item_purging.eml",
+      "to": "REQ:REQ-COL-006",
+      "title": "Derivation: conv_pines021_item_purging.eml -> REQ-COL-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-006",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines018_item_transfer.eml",
+      "to": "REQ:REQ-COL-007",
+      "title": "Derivation: conv_pines018_item_transfer.eml -> REQ-COL-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-007",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-007",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines019_020_missing_intransit.eml",
+      "to": "REQ:REQ-COL-008",
+      "title": "Derivation: conv_pines019_020_missing_intransit.eml -> REQ-COL-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-008",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-008",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-008",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines021_item_purging.eml",
+      "to": "REQ:REQ-COL-009",
+      "title": "Derivation: conv_pines021_item_purging.eml -> REQ-COL-009",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-COL-009",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-COL-009",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-COL-009",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-COL-009",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines023_patron_characteristics.eml",
+      "to": "REQ:REQ-PAT-001",
+      "title": "Derivation: conv_pines023_patron_characteristics.eml -> REQ-PAT-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-PAT-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-PAT-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines024_inactive_patrons.eml",
+      "to": "REQ:REQ-PAT-002",
+      "title": "Derivation: conv_pines024_inactive_patrons.eml -> REQ-PAT-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-PAT-002",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-PAT-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-PAT-003",
+      "title": "Derivation: email_report_features.eml -> REQ-PAT-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-PAT-003",
+      "title": "Derivation: survey_results_2009.txt -> REQ-PAT-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-PAT-003",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-PAT-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_financial_reports.eml",
+      "to": "REQ:REQ-FIN-001",
+      "title": "Derivation: email_financial_reports.eml -> REQ-FIN-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-FIN-001",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-FIN-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-FIN-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-FIN-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_financial_reports.eml",
+      "to": "REQ:REQ-FIN-002",
+      "title": "Derivation: email_financial_reports.eml -> REQ-FIN-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-FIN-002",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-FIN-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_staff_login.eml",
+      "to": "REQ:REQ-SEC-001",
+      "title": "Derivation: email_staff_login.eml -> REQ-SEC-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-SEC-001",
+      "title": "Derivation: email_report_features.eml -> REQ-SEC-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SEC-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SEC-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SEC-001",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SEC-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SEC-001",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SEC-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines022_deletions.eml",
+      "to": "REQ:REQ-SEC-002",
+      "title": "Derivation: conv_pines022_deletions.eml -> REQ-SEC-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_cataloging_2009-05-08.txt",
+      "to": "REQ:REQ-SEC-002",
+      "title": "Derivation: interview_cataloging_2009-05-08.txt -> REQ-SEC-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SEC-002",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SEC-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_report_features.eml",
+      "to": "REQ:REQ-SEC-003",
+      "title": "Derivation: email_report_features.eml -> REQ-SEC-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:email_financial_reports.eml",
+      "to": "REQ:REQ-SEC-003",
+      "title": "Derivation: email_financial_reports.eml -> REQ-SEC-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:conv_pines022_deletions.eml",
+      "to": "REQ:REQ-SEC-003",
+      "title": "Derivation: conv_pines022_deletions.eml -> REQ-SEC-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:survey_results_2009.txt",
+      "to": "REQ:REQ-SEC-003",
+      "title": "Derivation: survey_results_2009.txt -> REQ-SEC-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SEC-003",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SEC-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "REQ:REQ-SYS-001",
+      "title": "Derivation: interview_sysadmin_2009-05-10.txt -> REQ-SYS-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-001",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SYS-001",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SYS-001",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-002",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SYS-002",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SYS-002",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "REQ:REQ-SYS-003",
+      "title": "Derivation: interview_sysadmin_2009-05-10.txt -> REQ-SYS-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-003",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SYS-003",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SYS-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SYS-003",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SYS-003",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "REQ:REQ-SYS-004",
+      "title": "Derivation: interview_sysadmin_2009-05-10.txt -> REQ-SYS-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-004",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SYS-004",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SYS-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SYS-004",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SYS-004",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-005",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SYS-005",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SYS-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SYS-005",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SYS-005",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-SYS-006",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-SYS-006",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-03-15_minutes.txt",
+      "to": "REQ:REQ-SYS-007",
+      "title": "Derivation: meeting_2009-03-15_minutes.txt -> REQ-SYS-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "REQ:REQ-SYS-007",
+      "title": "Derivation: meeting_2009-07-20_minutes.txt -> REQ-SYS-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:meeting_tech_subcommittee_2009-06-30.txt",
+      "to": "REQ:REQ-SYS-007",
+      "title": "Derivation: meeting_tech_subcommittee_2009-06-30.txt -> REQ-SYS-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "REQ:REQ-SYS-007",
+      "title": "Derivation: early_draft_srs_galecia.txt -> REQ-SYS-007",
+      "color": "#bdc3c7"
+    },
+    {
+      "from": "DOC:interview_sysadmin_2009-05-10.txt",
+      "to": "BLK:BLK-001",
+      "title": "Discarded derivation: interview_sysadmin_2009-05-10.txt -> BLK-001",
+      "dashes": true,
+      "color": "#95a5a6"
+    },
+    {
+      "from": "DOC:meeting_2009-07-20_minutes.txt",
+      "to": "BLK:BLK-001",
+      "title": "Discarded derivation: meeting_2009-07-20_minutes.txt -> BLK-001",
+      "dashes": true,
+      "color": "#95a5a6"
+    },
+    {
+      "from": "DOC:early_draft_srs_galecia.txt",
+      "to": "BLK:BLK-001",
+      "title": "Discarded derivation: early_draft_srs_galecia.txt -> BLK-001",
+      "dashes": true,
+      "color": "#95a5a6"
+    },
+    {
+      "from": "DOC:conv_pines016_shelf_space.eml",
+      "to": "BLK:BLK-002",
+      "title": "Discarded derivation: conv_pines016_shelf_space.eml -> BLK-002",
+      "dashes": true,
+      "color": "#95a5a6"
+    },
+    {
+      "from": "DOC:conv_pines019_020_missing_intransit.eml",
+      "to": "BLK:BLK-003",
+      "title": "Discarded derivation: conv_pines019_020_missing_intransit.eml -> BLK-003",
+      "dashes": true,
+      "color": "#95a5a6"
+    },
+    {
+      "from": "DOC:conv_pines023_patron_characteristics.eml",
+      "to": "BLK:BLK-003",
+      "title": "Discarded derivation: conv_pines023_patron_characteristics.eml -> BLK-003",
+      "dashes": true,
+      "color": "#95a5a6"
+    }
+  ]
+}
