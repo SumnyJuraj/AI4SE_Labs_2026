@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "latex-checker": {
+      "command": "uv",
+      "args": ["run", "--script", "latex_checker_server.py"]
+    }
+  }
+}
